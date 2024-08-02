@@ -300,8 +300,8 @@ class CropMethods:
 
 
 class Folders:
-    ANIMATEDIFF_MODELS = "animatediff_models"
-    MOTION_LORA = "animatediff_motion_lora"
+    ANIMATEDIFF_MODELS = "checkpoints"
+    MOTION_LORA = "loras"
     VIDEO_FORMATS = "animatediff_video_formats"
 
 
